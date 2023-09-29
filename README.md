@@ -27,6 +27,8 @@ The codes are derived from: Yu, Y., Dinh, D. T., Nguyen, B. H., Yu, F., & Huynh,
 
 ## Dataset
 
+The collected dataset can be downloaded at: https://shorturl.at/BEWY5
+
 ## Environment
 
 * OS: Ubuntu 20.04.2 LTS
